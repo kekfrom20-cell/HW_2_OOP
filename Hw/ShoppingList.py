@@ -1,4 +1,4 @@
-from Recipe import *
+import Recipe
 
 
 class ShoppingList:
