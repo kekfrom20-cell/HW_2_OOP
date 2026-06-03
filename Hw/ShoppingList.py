@@ -1,4 +1,4 @@
-import Recipe
+from Hw.Recipe import Recipe
 
 
 class ShoppingList:

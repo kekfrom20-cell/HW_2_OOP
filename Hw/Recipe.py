@@ -1,4 +1,4 @@
-from Ingredient import Ingredient
+from Hw.Ingredient import Ingredient
 
 
 class Recipe:
