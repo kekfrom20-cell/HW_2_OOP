@@ -43,4 +43,4 @@ def test_quantity_validation():
 
     with pytest.raises(ValueError):
         Ingredient("Мука", -1, "г")
-```
+
