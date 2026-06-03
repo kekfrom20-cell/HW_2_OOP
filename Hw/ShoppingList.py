@@ -1,4 +1,5 @@
 from Hw.Recipe import Recipe
+from Hw.Ingredient import Ingredient
 
 
 class ShoppingList:
