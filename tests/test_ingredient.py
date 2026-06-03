@@ -1,6 +1,6 @@
 import pytest
 from Hw.Ingredient import Ingredient
-
+from Hw.Recipe import Recipe
 
 def test_ingredient_creation():
     ingredient = Ingredient("Мука", 500, "г")
