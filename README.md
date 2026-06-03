@@ -16,14 +16,14 @@
 
 ## Структура проекта
 
-Hw/
-Ingredient.py — класс Ingredient
-Recipe.py — класс Recipe
-ShoppingList.py — класс ShoppingList
-DietaryRecipe.py — наследник Recipe
+Hw:
+- Ingredient.py (класс Ingredient)
+- Recipe.py (класс Recipe)
+- ShoppingList.py (класс ShoppingList)
+- DietaryRecipe.py (наследник Recipe)
 
-tests/
-test_recipes.py — pytest тесты
+tests:
+- test_recipes.py (pytest тесты)
 
 ---
 
